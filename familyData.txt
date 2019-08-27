@@ -1,0 +1,30 @@
+ADD_CHILD Queen-Anga Chit Male
+ADD_CHILD Queen-Anga Ish Male
+ADD_CHILD Queen-Anga Vich Male
+ADD_CHILD Queen-Anga Aras Male
+ADD_CHILD Queen-Anga Satya Female
+MAKE_COUPLE Chit Amba
+MAKE_COUPLE Vich Lika
+MAKE_COUPLE Aras Chitra
+MAKE_COUPLE Satya Vyan
+ADD_CHILD Amba Dritha Female
+ADD_CHILD Amba Tritha Female
+ADD_CHILD Amba Vritha Male
+MAKE_COUPLE Dritha Jaya
+ADD_CHILD Dritha Yodhan Male
+ADD_CHILD Lika Vila Female
+ADD_CHILD Lika Chika Female
+ADD_CHILD Chitra Jnki Female
+ADD_CHILD Chitra Ahit Male
+MAKE_COUPLE Jnki Arit
+ADD_CHILD Jnki Laki Male
+ADD_CHILD Jnki Lavnya Female
+ADD_CHILD Satya Asva Male
+ADD_CHILD Satya Vyas Male
+ADD_CHILD Satya Atya Female
+MAKE_COUPLE Asva Satvy
+MAKE_COUPLE Vyas Krpi
+ADD_CHILD Satvy Vasa Male
+ADD_CHILD Krpi Kriya Male
+ADD_CHILD Krpi Krithi Female
+
